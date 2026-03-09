@@ -122,6 +122,7 @@ ISC License
 | Контакт | Ссылка |
 |---------|--------|
 | **GitHub** | [neverjoskiy](https://github.com/neverjoskiy) |
+| **Telegram** | [bioneverr](https://t.me/bioneverr) |
 
 ---
 
