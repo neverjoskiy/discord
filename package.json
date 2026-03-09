@@ -1,0 +1,23 @@
+{
+  "name": "discord-app",
+  "version": "1.0.0",
+  "description": "Electron app for Discord",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.discord.app",
+    "productName": "Discord",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}
